@@ -1,5 +1,5 @@
 ## Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers
-Textbook by Rene Beuchat, Florian Depraz, Andrea Guerrieri & Sahand Kashani
+Textbook by Rene Beuchat, Florian Depraz, Andrea Guerrieri & Sahand Kashani (available as PDF)
 
 Obtain an understanding of SoC Design using Arm Cortex-M processor cores.
 
