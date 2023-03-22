@@ -5,7 +5,7 @@ Obtain an understanding of SoC Design using Arm Cortex-M processor cores.
 
 ## [Download here](https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers/blob/main/Fundamentals%20of%20SoC%20Design%20on%20Arm%20Cortex-M%20Miconcontrollers_textbook.pdf)
 
-## Resource Aim
+## About this Book
 This textbook aims to provide learners with an understanding of embedded systems built around Arm Cortex-M processor cores, a popular CPU architecture often used in modern low-power SoCs that target IoT applications. Readers will be introduced to the basic principles of an embedded system from a high-level hardware and software perspective and will then be taken through the fundamentals of microcontroller architectures and SoC-based designs. Along the way, key topics such as chip design, the features and benefits of Arm’s Cortex-M processor architectures (including TrustZone, CMSIS and AMBA), interconnects, peripherals and memory management are discussed.
 
 The material covered in this book can be considered as key background for any student intending to major in computer engineering and is suitable for use in an undergraduate course on digital design.
