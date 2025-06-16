@@ -1,11 +1,12 @@
-## Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers
-Textbook by Rene Beuchat, Florian Depraz, Andrea Guerrieri & Sahand Kashani (available as PDF)
-
-Obtain an understanding of SoC Design using Arm Cortex-M processor cores.
-
-## [Download here](https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers/blob/main/Fundamentals%20of%20SoC_textbook.pdf)
+# Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers/releases/download/v2.0.0/Fundamentals-of-System-on-Chip-Design-on-Arm-Cortex-M-Microcontrollers-main.zip)
 
 ## About this Book
+- Textbook by Rene Beuchat, Florian Depraz, Andrea Guerrieri & Sahand Kashani (available as PDF)
+- Obtain an understanding of SoC Design using Arm Cortex-M processor cores.
+
 This textbook aims to provide learners with an understanding of embedded systems built around Arm Cortex-M processor cores, a popular CPU architecture often used in modern low-power SoCs that target IoT applications. Readers will be introduced to the basic principles of an embedded system from a high-level hardware and software perspective and will then be taken through the fundamentals of microcontroller architectures and SoC-based designs. Along the way, key topics such as chip design, the features and benefits of Arm’s Cortex-M processor architectures (including TrustZone, CMSIS and AMBA), interconnects, peripherals and memory management are discussed.
 
 The material covered in this book can be considered as key background for any student intending to major in computer engineering and is suitable for use in an undergraduate course on digital design.
